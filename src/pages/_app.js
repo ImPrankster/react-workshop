@@ -8,11 +8,11 @@ export default function App({ Component, pageProps }) {
         <Link href="/" className="navbtn">
           Counter
         </Link>
-        <Link href="/todo" className="navbtn">
-          Todos
-        </Link>
         <Link href="/frameworks" className="navbtn">
           Frameworks
+        </Link>
+        <Link href="/todo" className="navbtn">
+          Todos
         </Link>
         <Link href="/random" className="navbtn">
           Randomizer
