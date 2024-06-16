@@ -1,15 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# A Workshop on React Basics
 
-## Getting Started
+Continue by reading these blog posts:
 
-First, run the development server:
+- [JS 101](https://leow.io/posts/js-101)
+- [Getting Started with React](https://leow.io/posts/getting-started-with-react)
+- [More React](https://leow.io/posts/more-react)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+You can see the complete examples in different branches of this repository.
+
+Get started by using this repository as a template for your own project.
+
+-Leo Wang
